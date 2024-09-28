@@ -9,12 +9,11 @@ function pesquisar() {
         section.innerHTML = "<p>Não é permitido procurar espaços vazios</p>"
         return
     };
-    if (!resultados) {
+    if (!campo_pesquisa){
         section.innerHTML = "<p>Resultado não encontrado</p>"
         return
     };
     campo_pesquisa = campo_pesquisa.toLowerCase();
-
     let resultados = ""; //Incializa uma string vazia para armazenar os resultados
     let titulo = "";
     let descricao = "";
