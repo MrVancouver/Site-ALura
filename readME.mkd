@@ -1,0 +1,11 @@
+# Site de Coleção de Artesanato da Vanessa
+
+Esse site fala sobre os tipos de artesanato que a dona Vanessa faz para seus clientes e a importância de cada produto que foi feito a mão.
+
+Esse é um site criado a partir do que foi ensinado na formação da Alura. Nesta formação aprendi sobre:
+### Funcionalidades
+
+- HTML
+- JavaScript
+- CSS
+- Utilização do Google Gemini
