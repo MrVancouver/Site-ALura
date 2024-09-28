@@ -4,8 +4,9 @@ Esse site fala sobre os tipos de artesanato que a dona Vanessa faz para seus cli
 
 Esse é um site criado a partir do que foi ensinado na formação da Alura. Nesta formação aprendi sobre:
 ### Funcionalidades
-
 - HTML
 - JavaScript
 - CSS
 - Utilização do Google Gemini
+
+Caso deseje ver a funcionalidade do site pode acessá-lo [aqui](https://site-a-lura.vercel.app/).
